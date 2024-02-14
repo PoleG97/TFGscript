@@ -9,3 +9,6 @@ sudo apt-get install python python3-tk python3-pip -y
 
 # Instalacion de bCNC
 sudo pip install --upgrade bCNC
+
+# Inicio de la aplicacion
+# python -m bCNC
